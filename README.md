@@ -1,5 +1,5 @@
 # MicroXfce
-Simple repo containing my way of setting up Xfce on openSUSE MicroOS
+Simple repo containing my way of setting up Xfce on openSUSE MicroOS.
 
 ## So uh, how do i use it?
 On a clean install of MicroOS with barely anything installed, do the following:
